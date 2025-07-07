@@ -1,0 +1,21 @@
+#ifndef MULTI_H
+#define MULTI_H
+
+
+class multi
+{
+    public:
+        multi();
+        virtual ~multi();
+        multi(const multi& other);
+        multi& operator=(const multi& other);
+        double xofmulti=0;
+        double addofx=0;
+        double move_and_find(long double aristera,long double dexia);
+
+    protected:
+
+    private:
+};
+
+#endif // MULTI_H

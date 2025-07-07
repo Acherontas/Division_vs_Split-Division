@@ -1,0 +1,50 @@
+#include <iostream>
+#include "multi.h"
+#include "mountza.h"
+using namespace std;
+
+
+/*8 digits
+2785	33	84.393939
+2000	33	60.60606	60606
+700	    33	21.212121	212121
+80	    33	2.4242424	4242424
+5	    33	0.1515151	1515151
+            84.393938	6030302
+2785	33	84.393939
+*/
+
+
+int main()
+{
+    cout<<"voyeristic behaviours and others have fun\n";
+    cout<<"how precise the systems are depends on them xD \n";
+    cout<<"if u can ask them and respond tell me aswell (if u want)\n";
+    cout<<"the 8 digits results tend to differ when we do the same process [ as process of '/' between two numbers]\n";
+    cout<<"and then add them\n";
+    cout<<"enter 1 for and example or 0 to continue\n";
+    int exa=0;
+    cin>>exa;
+    if(exa==1){
+      cout<<"using 8 digits\n";
+      cout<<"initial result of 2785/33=84393939\n";
+      cout<<"2000/33=60.60606 as 60 and 60606\n";
+      cout<<"700/33=21.212121 as 21 and 212121\n";
+      cout<<"80/33=2.4242424 as 2 and 4242424\n";
+      cout<<"5/33=0.1515151 as 0 and 1515151\n";
+      cout<<"results is 84.393938 and "
+    }
+    double rmlt;
+    multi *mlt = new multi();
+    double fir_num;
+    double sec_num;
+    cout<<"Enter aristero arithmo : " ; cin>>fir_num;
+    //cout<<"\n";
+    cout<<"Enter dexi arithmo : " ; cin>>sec_num;
+    //cout<<"\n";
+    rmlt=mlt->move_and_find(fir_num,sec_num);
+    cout<<"\n";
+    mountza *mntzi=new mountza();
+    mntzi->mntz(fir_num,sec_num);
+    return 0;
+}

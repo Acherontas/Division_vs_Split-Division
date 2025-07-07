@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1711357090 source:/home/acherontas/codeblock/8_of_8/main.cpp
+	<iostream>
+	"multi.h"
+	"mountza.h"
+
+1711356872 source:/home/acherontas/codeblock/8_of_8/multi.cpp
+	"multi.h"
+	<iostream>
+
+1711295984 /home/acherontas/codeblock/8_of_8/multi.h
+
+1711370410 source:/home/acherontas/codeblock/8_of_8/mountza.cpp
+	"mountza.h"
+	<vector>
+	<math.h>
+	<iostream>
+	<iomanip>
+	<thread>
+	"multi.h"
+	<string>
+	<cstring>
+
+1711297706 /home/acherontas/codeblock/8_of_8/mountza.h
+	<iostream>
+	<vector>
+	<string>
+
+1726158663 source:/home/acherontas/codeblock/Diairesi_Diairesi_Leipei_Kati_arm64/main.cpp
+	<iostream>
+	"multi.h"
+	"mountza.h"
+
+1711295984 /home/acherontas/codeblock/Diairesi_Diairesi_Leipei_Kati_arm64/multi.h
+
+1711297706 /home/acherontas/codeblock/Diairesi_Diairesi_Leipei_Kati_arm64/mountza.h
+	<iostream>
+	<vector>
+	<string>
+
+1727281688 source:/home/acherontas/codeblock/Diairesi_Diairesi_Leipei_Kati_arm64/mountza.cpp
+	"mountza.h"
+	<vector>
+	<math.h>
+	<iostream>
+	<iomanip>
+	<thread>
+	"multi.h"
+	<string>
+	<cstring>
+
+1711356872 source:/home/acherontas/codeblock/Diairesi_Diairesi_Leipei_Kati_arm64/multi.cpp
+	"multi.h"
+	<iostream>
+
