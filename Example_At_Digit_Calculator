@@ -7,3 +7,131 @@
 3	“/”	23	  “=”	0.130434782609		  0.1304347
 						
 				       “5.347826086957”		  5.3478259  || 5.3478259-5.347826=1
+
+
+//the program output 
+
+acherontas@raspberrypi:~/Documents/oxoros $ ./Diairesi_Diairesi_Leipei_Kati_arm64 
+voyeristic behaviours and others have fun
+how precise the systems are depends on them xD 
+if u can ask them and respond tell me aswell (if u want)
+the 8 digits results tend to differ when we do the same process
+[ as process of '/' between two numbers]
+and then add them
+enter 1 for and example or 0 to continue
+0
+Enter aristero arithmo : 123
+Enter dexi arithmo : 23
+
+using : 123 23
+using the size of the number : 2
+@5 main : 5.34783
+@6 main : 5.347826
+@7 main : 5.3478261
+@8 main : 5.34782609
+
+with number of digit : 1 and str of it 1 and size 1  0
+with 2 and 1 
+Powing and moving--------------------------------------------------------
+using   ------> 100  with / 23  and := 4.34782609
+chk : 0.347826087
+ckcky number : 0.347826
+Using Reworkeddd :  4.347826
+Summing 1.1944681e-4946 with 4.347826 to Found := 8
+Reworked number : 4.34782609
+
+        @ ------> 100 / 23 := 4.34782609 
+                    @5 : 4.3478
+                    @6 : 4.34783
+                    @7 : 4.347826
+                    @8 : 4.3478261
+bigger 4.34782609 4.34782609
+                    @8 new : 4.3478260
+
+with number of digit : 2 and str of it 2 and size 1  0
+with 1 and 2 
+Powing and moving--------------------------------------------------------
+using   ------> 20  with / 23  and := 0.86956522
+chk : 0.869565217
+ckcky number : 0.8695652
+Using Reworkeddd :  0.8695652
+Summing 1.1944681e-4946 with 0.8695652 to Found := 20
+Reworked number : 0.86956522
+
+        @ ------> 20 / 23 := 0.86956522 
+                    @5 : 0.86957
+                    @6 : 0.869565
+                    @7 : 0.8695652
+                    @8 : 0.86956522
+bigger 0.86956522 0.86956522
+                    @8 new : 0.8695652
+
+with number of digit : 3 and str of it 3 and size 1  0
+with 0 and 3 
+Powing and moving--------------------------------------------------------
+using   ------> 3  with / 23  and := 0.13043478
+chk : 0.130434783
+ckcky number : 0.1304347
+Using Reworkeddd :  0.1304347
+Summing 1.1944681e-4946 with 0.1304347 to Found := 3
+Reworked number : 0.13043478
+
+        @ ------> 3 / 23 := 0.13043478 
+                    @5 : 0.13043
+                    @6 : 0.130435
+                    @7 : 0.1304348
+                    @8 : 0.13043478
+bigger 0.13043478 0.13043478
+                    @8 new : 0.1304347
+
+
+------Reporting Numbers------
+i 0 with 100 :: 4.34783 4.347826 4.3478261 4.347826 || 4.347826 sum 4.347826
+ ------> for number 4.347826 =  4 + 0.347826
+ ------> with sums  4 and 0.347826
+i 1 with 20 :: 0.86957 0.869565 0.8695652 0.8695652 || 0.8695652 sum 5.2173912
+ ------> for number 0.8695652 =  0 + 0.8695652
+ ------> with sums  4 and 1.2173912
+i 2 with 3 :: 0.13043 0.130435 0.1304348 0.1304347 || 0.1304347 sum 5.3478259
+ ------> for number 0.1304347 =  0 + 0.1304347
+ ------> with sums  4 and 1.3478259
+
+**************************************************
+getting sum and checking :
+as 1 + 1.3478259
+breaking comma seperated sum: 1.3478259 as 1 and 0.3478259
+fixing comma seperated value : 0.3478259 as 0 + 0.3478259
+taking only the digits we want returning with 0.347826 with 0.3478
+creating digit form 0.3478
+found differentiation between methods of : 0
+and sum to forward of: 4 + 0 = 4
+**************************************************
+
+-----------------------------
+Sums of lower digits :
+                    @5  : 5.34783
+                    @6  : 5.347826
+                    @7  : 5.3478261
+
+**************************************************************
+generating 5 + 0.34783
+correcting result number: 0.34783
+returning with 0.347830 with 0.3478
+creating digit form 0.3478
+with       4 + 0.3478
+approximation till fix 1 and 3e-05
+approximation with correction 1 and 0
+**************************************************************
+For 123 / 23 result sets is 
+---untouched values---------------------------------------------------------
+@8 sum                            : 5.3478259
+@8 sum with precision as addition : 5.3478259
+@8 main                           : 5.3478261
+@8 sumlx                          : 5.347825900 with 5.347825900
+@88                               : 5.34782590
+-----touched values---------------------------------------------------------
+@i 0 value 5.34782590
+@i 1 value 5.34782590
+@i 2 value 5.34782610
+@i 3 value 5.34782590
+@i 4 value 5.34782590
