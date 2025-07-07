@@ -19,7 +19,7 @@ shows that we have a missing 00.000001 lots digits
 imagine at bigger sequential numbers the difference.
 
 i will upload an program in C++ doesnt works
-very well but some you can tweak it if u want
+very well but some of you can tweak it if you want
 just ask me 
 
 thanks
